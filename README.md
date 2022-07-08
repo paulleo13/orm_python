@@ -1,2 +1,2 @@
 # orm_python
-A Object Relational Mapper in Python
+An Object Relational Mapper in Python
