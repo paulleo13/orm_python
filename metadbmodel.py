@@ -1,8 +1,4 @@
-from torch import manager_path
-
-
 from manager import DBModelManager
-
 
 class MetaDBModel(type):
     manager_class = DBModelManager

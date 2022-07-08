@@ -1,7 +1,4 @@
-from os import stat
-from matplotlib.pyplot import cla
 import psycopg2
-from enums import CreateEnum
 
 
 class Executor:
